@@ -1,0 +1,2 @@
+[06-Apr-2018 11:43:34 UTC] PHP Warning:  SQLite3::exec(): near &quot;s&quot;: syntax error in /home/d7jlyqrshkuo/public_html/dbhelper.php on line 51
+[06-Apr-2018 11:45:09 UTC] PHP Warning:  SQLite3::exec(): near &quot;s&quot;: syntax error in /home/d7jlyqrshkuo/public_html/dbhelper.php on line 51
